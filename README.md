@@ -1,9 +1,5 @@
 <div align="center">
   <br />
-  <a href="https://youtu.be/y5vE8y_f_OM" target="_blank">
-    <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner" />
-  </a>
-  <br />
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=61DAFB" alt="Next.js" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
@@ -57,8 +53,8 @@ Under the hood, rich‑text editing is powered by **Lexical**, Meta’s high‑p
 ## 🚀 Quick Start
 ```bash
 # 1· Clone
-git clone https://github.com/<your‑handle>/syncscribe.git
-cd syncscribe
+git clone https://github.com/shashank-yadav/collaborative-editor.git
+cd collaborative-editor
 
 # 2· Install deps
 npm install    # or pnpm / yarn

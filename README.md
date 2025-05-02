@@ -10,7 +10,6 @@
 
   <p align="center">
     Real‑time collaboration, comments, presence indicators, and rich‑text editing&mdash;all in one lightning‑fast Next.js application.<br/>
-    <sup>(Built during <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank">JavaScript Mastery</a> live‑coding sessions.)</sup>
   </p>
 </div>
 
@@ -53,7 +52,7 @@ Under the hood, rich‑text editing is powered by **Lexical**, Meta’s high‑p
 ## 🚀 Quick Start
 ```bash
 # 1· Clone
-git clone https://github.com/shashank-yadav/collaborative-editor.git
+git clone https://github.com/shashank11yadav/collaborative-editor.git
 cd collaborative-editor
 
 # 2· Install deps
